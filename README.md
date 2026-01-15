@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm vishnu bahadur budhathoki</h1>
+<h1 align="center">Hi 👋, I'm Vishnu Bahadur Budhathoki</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on **CivicPulse**
+- 🔭 I’m currently working on **CivicPulse** : A crowd soruced issue reporting app
 
 - 🌱 I’m currently learning **Full-Stack Web technologies with AI integrations.**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vishnubahadur788@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
